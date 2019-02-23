@@ -4,18 +4,17 @@ import java.util.Scanner;
 
 public class kReverse {
 
-    public static LinkedListNode<Integer> takeInput(){
+    public static LinkedListNode<Integer> takeInput() {
         Scanner s = new Scanner(System.in);
         LinkedListNode<Integer> head = null;
         LinkedListNode<Integer> tail = null;
         int data = s.nextInt();
-        while(data != -1) {
+        while (data != -1) {
             LinkedListNode<Integer> newNode = new LinkedListNode<Integer>(data);
-            if(head == null) {
+            if (head == null) {
                 head = newNode;
                 tail = newNode;
-            }
-            else {
+            } else {
                 tail.next = newNode;
                 tail = newNode;
             }
@@ -29,18 +28,18 @@ public class kReverse {
     }
 
     public static LinkedListNode<Integer> kReverse(LinkedListNode<Integer> head, int k) {
-      LinkedListNode<Integer> prev = null, curr = head;
-      if(head == null){
-          return head;
-      }
+        LinkedListNode<Integer> prev = null, curr = head;
+        if (head == null) {
+            return head;
+        }
 
 
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         LinkedListNode<Integer> head = takeInput();
-        LinkedListNode<Integer> head1 = kReverse(head,s.nextInt());
+        LinkedListNode<Integer> head1 = kReverse(head, s.nextInt());
         print(head1);
     }
 }
