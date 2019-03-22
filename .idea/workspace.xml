@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450d0359-1d4b-4c0d-857b-33ff7f1d17fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/linked_List_1/ContainsLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_List_1/ReverseLLRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/linked_List_1/kReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linked_List_1/kReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linked_List_1/reverseLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linked_List_1/reverseLL.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +24,51 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/linked_List_1/kReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state relative-caret-position="497">
+              <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+              <folding>
+                <element signature="method#takeInput#0;class#kReverse#0" />
+                <element signature="method#print#0;class#kReverse#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linked_List_1/ReverseLLRecursion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="method#takeInput#0;class#ReverseLLRecursion#0" />
+                <element signature="e#275#503#1" />
+                <element signature="e#370#416#1" />
+                <element signature="e#425#476#1" />
+                <element signature="method#print#0;class#ReverseLLRecursion#0" />
+                <element signature="e#642#707#1" />
+                <element signature="e#1171#1215#1" />
+                <element signature="method#main#0;class#ReverseLLRecursion#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="method#takeInput#0;class#PalindromeLL#0" />
+                <element signature="e#301#625#1" />
+                <element signature="e#414#493#1" />
+                <element signature="e#499#583#1" />
+                <element signature="method#print#0;class#PalindromeLL#0" />
+                <element signature="e#789#882#1" />
+                <element signature="e#1042#1043#0" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="method#main#0;class#PalindromeLL#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,8 +104,11 @@
         <option value="$PROJECT_DIR$/src/arrays2_Lecture/Bubble_Sort.java" />
         <option value="$PROJECT_DIR$/src/advancedTest/Anagram_pair.java" />
         <option value="$PROJECT_DIR$/src/linked_List_1/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/linked_List_1/reverseLL.java" />
         <option value="$PROJECT_DIR$/src/linked_List_1/kReverse.java" />
+        <option value="$PROJECT_DIR$/src/linked_List_1/reverseLL.java" />
+        <option value="$PROJECT_DIR$/src/linked_List_1/ContainsLoop.java" />
+        <option value="$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java" />
+        <option value="$PROJECT_DIR$/src/linked_List_1/ReverseLLRecursion.java" />
       </list>
     </option>
   </component>
@@ -72,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,6 +146,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,12 +154,12 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549207064436" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553230874192" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -122,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.reverseLL">
+  <component name="RunManager" selected="Application.ReverseLLRecursion">
     <configuration name="Anagram_pair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advancedTest.Anagram_pair" />
       <module name="Augest2018" />
@@ -136,25 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops1.Client" />
+    <configuration name="ReverseLLRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linked_List_1.ReverseLLRecursion" />
       <module name="Augest2018" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graphs.GetPath" />
-      <module name="Augest2018" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Graphs.*" />
+          <option name="PATTERN" value="linked_List_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,6 +206,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linked_List_1.kReverse" />
+      <module name="Augest2018" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linked_List_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseLLRecursion" />
+        <item itemvalue="Application.kReverse" />
         <item itemvalue="Application.reverseLL" />
         <item itemvalue="Application.Anagram_pair" />
         <item itemvalue="Application.TrieUse" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.GetPath" />
       </list>
     </recent_temporary>
   </component>
@@ -230,22 +281,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.509915" side_tool="true" weight="0.21677852" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.48300284" visible="true" weight="0.23154363" />
-      <window_info active="true" id="Structure" order="6" sideWeight="0.51699716" side_tool="true" visible="true" weight="0.23154363" />
+      <window_info id="Favorites" order="4" sideWeight="0.5184136" side_tool="true" weight="0.20536913" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.48016998" visible="true" weight="0.2080537" />
+      <window_info id="Structure" order="6" sideWeight="0.51983005" side_tool="true" visible="true" weight="0.2080537" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.3243626" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.21529745" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3711048" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.5495751" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.3286119" />
@@ -565,29 +617,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linked_List_1/LinkedListUse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="30">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linked_List_1/reverseLL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="532">
+          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linked_List_1/LinkedListNode.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linked_List_1/ContainsLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="method#takeInput#0;class#PalindromeLL#0" />
+            <element signature="e#301#625#1" />
+            <element signature="e#414#493#1" />
+            <element signature="e#499#583#1" />
+            <element signature="method#print#0;class#PalindromeLL#0" />
+            <element signature="e#789#882#1" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="method#main#0;class#PalindromeLL#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linked_List_1/ReverseLLRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="method#takeInput#0;class#ReverseLLRecursion#0" />
+            <element signature="e#275#503#1" />
+            <element signature="e#370#416#1" />
+            <element signature="e#425#476#1" />
+            <element signature="method#print#0;class#ReverseLLRecursion#0" />
+            <element signature="e#642#707#1" />
+            <element signature="e#1171#1215#1" />
+            <element signature="method#main#0;class#ReverseLLRecursion#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linked_List_1/kReverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        <state relative-caret-position="497">
+          <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+          <folding>
+            <element signature="method#takeInput#0;class#kReverse#0" />
+            <element signature="method#print#0;class#kReverse#0" />
+          </folding>
         </state>
       </provider>
     </entry>

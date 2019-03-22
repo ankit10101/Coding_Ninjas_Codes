@@ -2,8 +2,7 @@ package linked_List_1;
 
 import java.util.Scanner;
 
-public class reverseLL {
-
+public class ReverseLLRecursion {
     public static LinkedListNode<Integer> takeInput() {
         Scanner s = new Scanner(System.in);
         LinkedListNode<Integer> head = null;
@@ -26,30 +25,26 @@ public class reverseLL {
     public static void print(LinkedListNode<Integer> head) {
         LinkedListNode<Integer> temp = head;
         while (temp != null) {
-            System.out.print(temp.getData() + "->");
+            System.out.print(temp.getData() + " ");
             temp = temp.next;
         }
-        System.out.print("null");
+        System.out.println();
     }
 
-    public static LinkedListNode<Integer> reverse(LinkedListNode<Integer> head) {
-        LinkedListNode<Integer> prev = null, curr = head, next = null;
-        if (head == null) {
+    public static LinkedListNode<Integer> reverseRecursively(LinkedListNode<Integer> head) {
+        if (head == null || head.next == null) {
             return head;
         }
-        while (curr != null) {
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-        }
-        return prev;
+        LinkedListNode<Integer> remaining = reverseRecursively(head.next);
+        head.next.next = head;
+        head.next = null;
+        return remaining;
     }
 
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
         LinkedListNode<Integer> head = takeInput();
-        head = reverse(head);
         print(head);
+        LinkedListNode<Integer> headReversed = reverseRecursively(head);
+        print(headReversed);
     }
 }
