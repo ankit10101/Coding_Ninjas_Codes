@@ -31,7 +31,7 @@ public class ReverseLLRecursion {
         System.out.println();
     }
 
-    public static LinkedListNode<Integer> reverseRecursively(LinkedListNode<Integer> head) {
+    private static LinkedListNode<Integer> reverseRecursively(LinkedListNode<Integer> head) {
         if (head == null || head.next == null) {
             return head;
         }

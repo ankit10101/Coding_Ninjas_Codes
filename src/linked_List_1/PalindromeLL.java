@@ -31,8 +31,8 @@ public class PalindromeLL {
         System.out.println();
     }
 
-    public static boolean isPalindrome(LinkedListNode<Integer> head) {
-      return true;
+    private static boolean isPalindrome(LinkedListNode<Integer> head) {
+
     }
 
     public static void main(String[] args) {

@@ -2,7 +2,7 @@ package trie;
 
 public class Trie {
     private TrieNode root;
-    int count;
+    private int count;
 
     public Trie(){
         root = new TrieNode('\0');

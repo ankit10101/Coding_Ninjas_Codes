@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450d0359-1d4b-4c0d-857b-33ff7f1d17fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linked_List_1/ContainsLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linked_List_1/ReverseLLRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linked_List_1/kReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linked_List_1/kReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linked_List_1/reverseLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linked_List_1/reverseLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linked_List_1/ReverseLLRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linked_List_1/ReverseLLRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trie/Trie.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,59 +14,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="Augest2018" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/linked_List_1/kReverse.java">
+        <entry file="file://$PROJECT_DIR$/src/arrays2_Lecture/Bubble_Sort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
-              <folding>
-                <element signature="method#takeInput#0;class#kReverse#0" />
-                <element signature="method#print#0;class#kReverse#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linked_List_1/ReverseLLRecursion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-              <folding>
-                <element signature="method#takeInput#0;class#ReverseLLRecursion#0" />
-                <element signature="e#275#503#1" />
-                <element signature="e#370#416#1" />
-                <element signature="e#425#476#1" />
-                <element signature="method#print#0;class#ReverseLLRecursion#0" />
-                <element signature="e#642#707#1" />
-                <element signature="e#1171#1215#1" />
-                <element signature="method#main#0;class#ReverseLLRecursion#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="method#takeInput#0;class#PalindromeLL#0" />
-                <element signature="e#301#625#1" />
-                <element signature="e#414#493#1" />
-                <element signature="e#499#583#1" />
-                <element signature="method#print#0;class#PalindromeLL#0" />
-                <element signature="e#789#882#1" />
-                <element signature="e#1042#1043#0" expanded="true" />
-                <element signature="e#1066#1067#0" expanded="true" />
-                <element signature="method#main#0;class#PalindromeLL#0" />
-              </folding>
+            <state relative-caret-position="97">
+              <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -98,24 +56,30 @@
         <option value="$PROJECT_DIR$/src/trie/TrieNode.java" />
         <option value="$PROJECT_DIR$/src/oops1/Client.java" />
         <option value="$PROJECT_DIR$/src/oops1/Polynomial.java" />
-        <option value="$PROJECT_DIR$/src/trie/Trie.java" />
         <option value="$PROJECT_DIR$/src/trie/TrieUse.java" />
         <option value="$PROJECT_DIR$/src/binaryTree/Level_order_traversal.java" />
         <option value="$PROJECT_DIR$/src/arrays2_Lecture/Bubble_Sort.java" />
         <option value="$PROJECT_DIR$/src/advancedTest/Anagram_pair.java" />
         <option value="$PROJECT_DIR$/src/linked_List_1/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/linked_List_1/kReverse.java" />
         <option value="$PROJECT_DIR$/src/linked_List_1/reverseLL.java" />
         <option value="$PROJECT_DIR$/src/linked_List_1/ContainsLoop.java" />
-        <option value="$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java" />
         <option value="$PROJECT_DIR$/src/linked_List_1/ReverseLLRecursion.java" />
+        <option value="$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java" />
+        <option value="$PROJECT_DIR$/src/linked_List_1/kReverse.java" />
+        <option value="$PROJECT_DIR$/src/trie/Trie.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,6 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,13 +104,24 @@
               <item name="Augest2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Augest2018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linked_List_1" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays2_Lecture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Augest2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Augest2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays2_Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Augest2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Augest2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays_Lecture" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -154,7 +130,9 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553230874192" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553237632984" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -287,11 +265,11 @@
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.5184136" side_tool="true" weight="0.20536913" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.48016998" visible="true" weight="0.2080537" />
-      <window_info id="Structure" order="6" sideWeight="0.51983005" side_tool="true" visible="true" weight="0.2080537" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3286119" />
+      <window_info id="Favorites" order="4" sideWeight="0.50708216" side_tool="true" weight="0.19463088" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49150142" weight="0.407767" />
+      <window_info id="Structure" order="6" sideWeight="0.5084986" side_tool="true" weight="0.19731544" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32743362" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32743362" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.3243626" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -300,16 +278,44 @@
       <window_info anchor="bottom" id="Debug" order="7" weight="0.5495751" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32743362" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3295302" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24966443" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.50708216" side_tool="true" weight="0.19463088" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49150142" visible="true" weight="0.19731544" />
+      <window_info active="true" id="Structure" order="6" sideWeight="0.5084986" side_tool="true" visible="true" weight="0.19731544" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32743362" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32743362" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3243626" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3711048" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.5495751" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32743362" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3295302" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -366,6 +372,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/FirstProgram.java" />
@@ -516,24 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/trie/TrieNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trie/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oops1/Polynomial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2793">
@@ -566,13 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/trie/TrieUse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/arrays2_Lecture/Maximize_the_sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -591,20 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/advancedTest/Anagram_pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arrays2_Lecture/Bubble_Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
@@ -646,36 +617,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java">
+    <entry file="file://$PROJECT_DIR$/src/advancedTest/Anagram_pair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="method#takeInput#0;class#PalindromeLL#0" />
-            <element signature="e#301#625#1" />
-            <element signature="e#414#493#1" />
-            <element signature="e#499#583#1" />
-            <element signature="method#print#0;class#PalindromeLL#0" />
-            <element signature="e#789#882#1" />
-            <element signature="e#1042#1043#0" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
-            <element signature="method#main#0;class#PalindromeLL#0" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/linked_List_1/PalindromeLL.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/linked_List_1/ReverseLLRecursion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="189">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
           <folding>
             <element signature="method#takeInput#0;class#ReverseLLRecursion#0" />
-            <element signature="e#275#503#1" />
-            <element signature="e#370#416#1" />
-            <element signature="e#425#476#1" />
             <element signature="method#print#0;class#ReverseLLRecursion#0" />
-            <element signature="e#642#707#1" />
-            <element signature="e#1171#1215#1" />
             <element signature="method#main#0;class#ReverseLLRecursion#0" />
           </folding>
         </state>
@@ -683,12 +641,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linked_List_1/kReverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+        <state relative-caret-position="600">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
           <folding>
             <element signature="method#takeInput#0;class#kReverse#0" />
+            <element signature="e#1052#1376#1" />
+            <element signature="e#1165#1244#1" />
+            <element signature="e#1250#1334#1" />
             <element signature="method#print#0;class#kReverse#0" />
+            <element signature="e#1540#1633#1" />
+            <element signature="method#kReverse#0;class#kReverse#0" />
+            <element signature="e#1851#2149#1" />
+            <element signature="e#1922#2107#1" />
+            <element signature="method#main#0;class#kReverse#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trie/TrieNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trie/Trie.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trie/TrieUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays2_Lecture/Bubble_Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
         </state>
       </provider>
     </entry>
